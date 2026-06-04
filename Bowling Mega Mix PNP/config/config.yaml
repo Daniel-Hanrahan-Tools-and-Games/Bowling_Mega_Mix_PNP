@@ -1,0 +1,42 @@
+#config_version=v6
+# The line above must be the very first line in your MPF config file.
+
+###############################################################################
+# Hardware Definitions
+# (Adjust the 'platform' and 'number' strings to match your specific boards)
+###############################################################################
+hardware:
+  platform: virtual          # Change to 'fast', 'p_roc', or 'opp' for physical hardware
+  driverboards: virtual
+
+coils:
+  c_plunger:
+    number: co-01            # Your physical hardware driver output number
+    default_pulse_ms: 30     # Fallback value if no arguments are passed
+    max_pulse_ms: 80         # CRITICAL SAFETY: Prevents Godot from accidentally burning out the coil
+
+switches:
+  s_plunger_lane:
+    number: sw-01            # The switch that detects if a ball is sitting in the launcher lane
+    debounce: quick
+
+###############################################################################
+# Pinball Mechanics & Devices
+###############################################################################
+ball_devices:
+  bd_plunger:
+    ball_switches: s_plunger_lane
+    eject_coil: c_plunger
+    mechanical_eject: false  # Tells MPF that a coil drives this launcher, not a manual spring pull
+    tags: plunger, home      # Identifies this device to MPF's automatic ball tracking system
+
+###############################################################################
+# Godot C# Bridge Configuration
+# This section listens for your C# dictionary and executes the hardware pulse
+###############################################################################
+coil_player:
+  godot_launch_ball:
+    c_plunger:
+      action: pulse
+      pulse_ms: (pulse_ms)   # Strips the raw integer value out of your C# dictionary payload
+

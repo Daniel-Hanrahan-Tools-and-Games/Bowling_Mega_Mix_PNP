@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "QtT/aa44DYZ4m/JlO7hdGn1tjbB0/XI3/KxtdJbBzhzatyfmvPmLKGPbdILNxUbeuwhNT0K5oJQoDwthsxAmDg==",
+  "success": true,
+  "projectFilePath": "/home/daniel/Desktop/Bowling Mega Mix PNP/Bowling Mega Mix.csproj",
+  "expectedPackageFiles": [
+    "/home/daniel/.nuget/packages/godot.sourcegenerators/4.3.0/godot.sourcegenerators.4.3.0.nupkg.sha512",
+    "/home/daniel/.nuget/packages/godotsharp/4.3.0/godotsharp.4.3.0.nupkg.sha512",
+    "/home/daniel/.nuget/packages/godotsharpeditor/4.3.0/godotsharpeditor.4.3.0.nupkg.sha512",
+    "/home/daniel/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/home/daniel/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

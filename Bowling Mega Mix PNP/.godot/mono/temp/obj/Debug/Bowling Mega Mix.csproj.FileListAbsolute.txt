@@ -1,0 +1,34 @@
+/media/daniel/6D7F-70B5/Bowling Mega Mix/.godot/mono/temp/bin/Debug/Bowling Mega Mix.deps.json
+/media/daniel/6D7F-70B5/Bowling Mega Mix/.godot/mono/temp/bin/Debug/Bowling Mega Mix.runtimeconfig.json
+/media/daniel/6D7F-70B5/Bowling Mega Mix/.godot/mono/temp/bin/Debug/Bowling Mega Mix.dll
+/media/daniel/6D7F-70B5/Bowling Mega Mix/.godot/mono/temp/bin/Debug/Bowling Mega Mix.pdb
+/media/daniel/6D7F-70B5/Bowling Mega Mix/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/media/daniel/6D7F-70B5/Bowling Mega Mix/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/media/daniel/6D7F-70B5/Bowling Mega Mix/.godot/mono/temp/obj/Debug/Bowling Mega Mix.csproj.AssemblyReference.cache
+/media/daniel/6D7F-70B5/Bowling Mega Mix/.godot/mono/temp/obj/Debug/Bowling Mega Mix.GeneratedMSBuildEditorConfig.editorconfig
+/media/daniel/6D7F-70B5/Bowling Mega Mix/.godot/mono/temp/obj/Debug/Bowling Mega Mix.AssemblyInfoInputs.cache
+/media/daniel/6D7F-70B5/Bowling Mega Mix/.godot/mono/temp/obj/Debug/Bowling Mega Mix.AssemblyInfo.cs
+/media/daniel/6D7F-70B5/Bowling Mega Mix/.godot/mono/temp/obj/Debug/Bowling Mega Mix.csproj.CoreCompileInputs.cache
+/media/daniel/6D7F-70B5/Bowling Mega Mix/.godot/mono/temp/obj/Debug/Bowling Mega Mix.csproj.CopyComplete
+/media/daniel/6D7F-70B5/Bowling Mega Mix/.godot/mono/temp/obj/Debug/Bowling Mega Mix.dll
+/media/daniel/6D7F-70B5/Bowling Mega Mix/.godot/mono/temp/obj/Debug/refint/Bowling Mega Mix.dll
+/media/daniel/6D7F-70B5/Bowling Mega Mix/.godot/mono/temp/obj/Debug/Bowling Mega Mix.pdb
+/media/daniel/6D7F-70B5/Bowling Mega Mix/.godot/mono/temp/obj/Debug/Bowling Mega Mix.genruntimeconfig.cache
+/media/daniel/6D7F-70B5/Bowling Mega Mix/.godot/mono/temp/obj/Debug/ref/Bowling Mega Mix.dll
+/home/daniel/Desktop/Bowling Mega Mix PNP/.godot/mono/temp/bin/Debug/Bowling Mega Mix.deps.json
+/home/daniel/Desktop/Bowling Mega Mix PNP/.godot/mono/temp/bin/Debug/Bowling Mega Mix.runtimeconfig.json
+/home/daniel/Desktop/Bowling Mega Mix PNP/.godot/mono/temp/bin/Debug/Bowling Mega Mix.dll
+/home/daniel/Desktop/Bowling Mega Mix PNP/.godot/mono/temp/bin/Debug/Bowling Mega Mix.pdb
+/home/daniel/Desktop/Bowling Mega Mix PNP/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/home/daniel/Desktop/Bowling Mega Mix PNP/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/home/daniel/Desktop/Bowling Mega Mix PNP/.godot/mono/temp/obj/Debug/Bowling Mega Mix.csproj.AssemblyReference.cache
+/home/daniel/Desktop/Bowling Mega Mix PNP/.godot/mono/temp/obj/Debug/Bowling Mega Mix.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Desktop/Bowling Mega Mix PNP/.godot/mono/temp/obj/Debug/Bowling Mega Mix.AssemblyInfoInputs.cache
+/home/daniel/Desktop/Bowling Mega Mix PNP/.godot/mono/temp/obj/Debug/Bowling Mega Mix.AssemblyInfo.cs
+/home/daniel/Desktop/Bowling Mega Mix PNP/.godot/mono/temp/obj/Debug/Bowling Mega Mix.csproj.CoreCompileInputs.cache
+/home/daniel/Desktop/Bowling Mega Mix PNP/.godot/mono/temp/obj/Debug/Bowling Mega Mix.csproj.CopyComplete
+/home/daniel/Desktop/Bowling Mega Mix PNP/.godot/mono/temp/obj/Debug/Bowling Mega Mix.dll
+/home/daniel/Desktop/Bowling Mega Mix PNP/.godot/mono/temp/obj/Debug/refint/Bowling Mega Mix.dll
+/home/daniel/Desktop/Bowling Mega Mix PNP/.godot/mono/temp/obj/Debug/Bowling Mega Mix.pdb
+/home/daniel/Desktop/Bowling Mega Mix PNP/.godot/mono/temp/obj/Debug/Bowling Mega Mix.genruntimeconfig.cache
+/home/daniel/Desktop/Bowling Mega Mix PNP/.godot/mono/temp/obj/Debug/ref/Bowling Mega Mix.dll

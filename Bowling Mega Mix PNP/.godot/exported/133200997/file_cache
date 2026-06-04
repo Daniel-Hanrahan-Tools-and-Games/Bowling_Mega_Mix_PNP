@@ -1,0 +1,37 @@
+res://addons/mpf-gmc/editor/gmc_panel.tscn::45392ed5cc25fa55a703d5164fa17cc3::1777153927::res://.godot/exported/133200997/export-02e04e3990b92a39eeedbd6690cdb3fb-gmc_panel.scn
+res://addons/mpf-gmc/editor/mpf_output.tscn::6a5d127ade33a0c4e75b31665639d5b0::1777153927::res://.godot/exported/133200997/export-ad2dd779ded9bfa166bb007cd7770d13-mpf_output.scn
+res://addons/mpf-gmc/editor/mpf_panel.tscn::6a1903edac4f8ba0ad5a973526b4780b::1777153927::res://.godot/exported/133200997/export-1a5cafae354499ad18b3f9ab4fa52da8-mpf_panel.scn
+res://addons/mpf-gmc/resources/dmd_overlay.tscn::25dc0ed149040376c23fd42c4cc4c1aa::1777153927::res://.godot/exported/133200997/export-c2d2967098ff4a7ce2543fe10b456b5d-dmd_overlay.scn
+res://addons/mpf-gmc/resources/textinput_highlight_material.tres::1392d227e81f19b872234e88f5ba6635::1777153927::res://.godot/exported/133200997/export-0ca03070ac667653be6a2f52b06bd43b-textinput_highlight_material.res
+res://addons/mpf-gmc/slides/service/coil_test.tscn::fad95f39fe6b8a7017d0528839d6c17b::1777153927::res://.godot/exported/133200997/export-97891718546a03ddea742c1319c9e4d0-coil_test.scn
+res://addons/mpf-gmc/slides/service/light_test.tscn::0171129ba540eb8b99d2c83eb3f34f06::1777153927::res://.godot/exported/133200997/export-aed031e4c80fc44bed7c12fd08ff11fb-light_test.scn
+res://addons/mpf-gmc/slides/service/List_Button.tscn::0544f17a55c3618dcd63dcb517c47624::1777153927::res://.godot/exported/133200997/export-4c9851db193ce48f9cfeb9c3a2f2987c-List_Button.scn
+res://addons/mpf-gmc/slides/service/service_theme.tres::772ce1ccf4ea633f3b3dd9fd12869702::1777153927::res://.godot/exported/133200997/export-54547142419d283400099a94b5c16231-service_theme.res
+res://addons/mpf-gmc/slides/service/Settings_Item.tscn::00cb79897b272e210418e7209cedc3cf::1777153927::res://.godot/exported/133200997/export-6cb4841ee23aeaa0ff9ee6d6f7dcaa77-Settings_Item.scn
+res://addons/mpf-gmc/slides/service/Settings_Page.tscn::2dbcb079f38d8f79ec6d48e6dabe666d::1777153927::res://.godot/exported/133200997/export-3949a2c801fe85e0295db69cffbf1767-Settings_Page.scn
+res://addons/mpf-gmc/slides/service/Settings_Slider.tscn::ee5187c70885379f33b7f60e1fad8685::1777153927::res://.godot/exported/133200997/export-b99e56459fed639c324f58927ffde097-Settings_Slider.scn
+res://addons/mpf-gmc/slides/service/Sound_Page.tscn::e19a39a4e9d12bee8b1529102f8093bf::1777153927::res://.godot/exported/133200997/export-f85a7ebb1b48cc2ef375ceb519da4061-Sound_Page.scn
+res://addons/mpf-gmc/slides/service/switch_test.tscn::350366506c47dc70f1d3a9af5d319675::1777153927::res://.godot/exported/133200997/export-4da3ec44b31178f34047e47aab283534-switch_test.scn
+res://addons/mpf-gmc/slides/service/Utilities_Page.tscn::2a4a48ccf8a03c1881fdab420cf2a8a0::1777153927::res://.godot/exported/133200997/export-a5b7fc8b9689ee1804dcaf71e12264c9-Utilities_Page.scn
+res://addons/mpf-gmc/slides/bonus.tscn::f86247d2726f7357147b20886fc62a0f::1777153927::res://.godot/exported/133200997/export-35cd01cc28225d47859e20bab44c0398-bonus.scn
+res://addons/mpf-gmc/slides/high_score.tscn::a16f7772f10ea26b2c839ee08ee14ed2::1777153927::res://.godot/exported/133200997/export-7d194703543fad93040a182c8a2eb99b-high_score.scn
+res://addons/mpf-gmc/slides/high_score_award.tscn::4b76edbe010950caed12cc70a2a40564::1777153927::res://.godot/exported/133200997/export-2462039de5cd6c13b075a705272e51ad-high_score_award.scn
+res://addons/mpf-gmc/slides/service.tscn::b2df40b8e0cdc4a49e8f044b067428db::1777153927::res://.godot/exported/133200997/export-904dd32e876eb0280e972456412559f4-service.scn
+res://addons/mpf-gmc/slides/startup.tscn::42baa9170335dcc3f5b70f5030917296::1777153927::res://.godot/exported/133200997/export-89a11663c5d59eb09ba7e0854c4b3ea2-startup.scn
+res://addons/mpf-gmc/slides/tilt.tscn::fee6374b5cf00ed7ff1f257b891ac7e3::1777153927::res://.godot/exported/133200997/export-0612476422a2a3415aaf6b9af4037837-tilt.scn
+res://addons/mpf-gmc/slides/window.tscn::497765ef16b4c41e86587fc7a993c7d7::1777153927::res://.godot/exported/133200997/export-cf497cf7c36c7a1ecb8532a45f32a410-window.scn
+res://Collision and Models/CandlepinBowlingPin.tscn::ddb2cc7dfcfdd49092f307a1007f4e40::1779055484::res://.godot/exported/133200997/export-880d481c35083a3ca4303391473a00a8-CandlepinBowlingPin.scn
+res://Collision and Models/DuckpinBowlingPin.tscn::61ff6238498c2fdc1512659717e98b75::1779055484::res://.godot/exported/133200997/export-7dc0e3b14a4bb36c1446c8dd66fe17d8-DuckpinBowlingPin.scn
+res://Collision and Models/FivePinFivePin.tscn::e18411021a8c08611e4ef98eb313c763::1779055484::res://.godot/exported/133200997/export-b205a51e8a66e492f5100c696398e43a-FivePinFivePin.scn
+res://Collision and Models/FivePinThreePins.tscn::c803bac5617289e3871e25e9f73aa99f::1779055484::res://.godot/exported/133200997/export-5d233ed8b3ef40529b80a0b22520a45a-FivePinThreePins.scn
+res://Collision and Models/FivePinTwoPins.tscn::39982691ab4cfd4e3d5efef7a7bd2e72::1779055484::res://.godot/exported/133200997/export-01211df6693933f7bf7df62963f83144-FivePinTwoPins.scn
+res://Collision and Models/RegularBowlingPin.tscn::1fd4e0e27fa47c564d565861ce035e2c::1779055484::res://.godot/exported/133200997/export-027dd0621b7ecd25ce2a9445b3ffc5dd-RegularBowlingPin.scn
+res://Collision and Models/TexasNinePinBowlingPin.tscn::0247c70e060aba59aed35f615288df85::1779055484::res://.godot/exported/133200997/export-0f98c0a295dce93e57608ed634e912e3-TexasNinePinBowlingPin.scn
+res://Collision and Models/TexasNinePinBowlingPinRed.tscn::46ca789df57367479e3d38efa3af83a7::1779055484::res://.godot/exported/133200997/export-a0c3d67102af90065c296f19d014c428-TexasNinePinBowlingPinRed.scn
+res://5PinLane.tscn::2f887a48d5d3452e1d2506e8e197594c::1780593977::res://.godot/exported/133200997/export-7e84c4bc45a97c9d200b97c0eab1e6ed-5PinLane.scn
+res://10PinLane.tscn::bcd23c86fc5adda0e9659fb53384cd3d::1780593977::res://.godot/exported/133200997/export-e6812bf4c2b539e1738d3754434fedf6-10PinLane.scn
+res://CandlePinLane.tscn::6091964d5d14f1c15de79f8ae265d2ae::1780593978::res://.godot/exported/133200997/export-3a6e8501b04e7b7781490daa0751c343-CandlePinLane.scn
+res://DuckPinLane.tscn::97b7b2f13173e9c9c59896c44149cd72::1780593978::res://.godot/exported/133200997/export-0131e30cb3bbb55e7f2ae22c94d2506d-DuckPinLane.scn
+res://HolyRoman9PinLane.tscn::0e779b9e2554b2e779566e083838334c::1780593977::res://.godot/exported/133200997/export-2c4ebfa74f7f2af360d1addfac2b1adc-HolyRoman9PinLane.scn
+res://MainMenu.tscn::9177f6ec2e9408e16fc069162d565844::1780593977::res://.godot/exported/133200997/export-e20540a8a37e906f11cb1dae59cc6ed4-MainMenu.scn
+res://Texas9PinLane.tscn::150e49e5e7821d680f741446473fc844::1780593977::res://.godot/exported/133200997/export-01cd59b519f9455203bc9474ff86ee67-Texas9PinLane.scn

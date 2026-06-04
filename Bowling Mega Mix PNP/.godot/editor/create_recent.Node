@@ -1,0 +1,13 @@
+Label
+RigidBody3D
+Area3D
+Button
+CanvasLayer
+Node3D
+CollisionShape3D
+DirectionalLight3D
+WorldEnvironment
+OmniLight3D
+Camera3D
+Node
+MeshInstance3D
