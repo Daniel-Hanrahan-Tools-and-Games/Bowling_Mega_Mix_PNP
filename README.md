@@ -9,6 +9,14 @@ This is only a BackBone port so some changes may be neccessary.
 
 <a href="https://daniel-hanrahan-tools-and-games.github.io/Bowling_Mega_Mix">Bowling_Mega_Mix ReadMe Page</a>
 
+<h3>Links to Documentation and Repositories needed for Mission Pinball Framework. </h3>
+
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/mpf">MPF Repository</a>
+
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/mpf-docs">MPF Documentation</a>
+
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/mpf-gmc">MPF Engine Media Controller</a>
+
 Anything not covered by the GNU GPL 3.0: This work is licensed under Attribution-ShareAlike 4.0 International
 
 You need to compile this project, and to compile this project you first need to have the godot engine with C#/.NET support which the download link is underneath this line, second you put the quest_for_chalice folder on your local machine, third you need to open that same folder in the engine, fourth compile the project either using the play button or something else.
